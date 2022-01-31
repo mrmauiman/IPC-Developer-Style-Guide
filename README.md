@@ -6,12 +6,12 @@
 > ## IPC Colors
 
 ## Naming Conventions
-- Variables : snake_case : all words are lowercase and are separated by '_'
-- HTML Atrributes : html-snake-case : all words are lowercase and are separated by '-' 
-- Functions : lowerCamelCase : starts with a lowercase letter and following words start with uppercase letters with no spaces between words
-- Tables :  UpperCamelCase : all words start with capital letters with no spaces between words
-- Table Fields : lower spaced out : all words are lowercase and normally spaced
-- Script Includes : Upper Spaced Out : all words start with an uppercase letter and are normally spaced
+- snake_case : all words are lowercase and are separated by '_'
+- html-snake-case : all words are lowercase and are separated by '-' 
+- lowerCamelCase : starts with a lowercase letter and following words start with uppercase letters with no spaces between words
+- UpperCamelCase : all words start with capital letters with no spaces between words
+- lower spaced out : all words are lowercase and normally spaced
+- Upper Spaced Out : all words start with an uppercase letter and are normally spaced
 
 ### Variables: snake_case
 example: 
